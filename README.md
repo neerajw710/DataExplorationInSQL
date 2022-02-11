@@ -5,8 +5,8 @@ and the Dataset consists of Data from January 1, 2020, till February 7, 2022.
 The entire dataset was divided into two tables (CovidDeaths and CovidVaccinations) before importing it to SSMS for data exploration.
 
 ## This project explores the data for the following subjects:
-* Predicting the probability of death if a person living in India encounters COVID-19.
-* Predicting the probability of getting infected by covid if you live in India.
+* The probability of death if a person living in India encounters COVID-19.
+* The probability of getting infected by covid if you live in India.
 * Showing countries with their highest infection rate as compared to the population.
 * Showing countries with their highest death count per population.
 * Showing continents with their highest death count per population.
