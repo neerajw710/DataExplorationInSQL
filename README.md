@@ -1,6 +1,6 @@
 
 # Covid Data Exploration
-This project is all about **Data Exploration in MS SQL Server.** This project includes the data from open data source [(link)](https://ourworldindata.org/covid-deaths) 
+This project is all about **Data Exploration in MS SQL Server.** It inncludes the data from open data source [(link)](https://ourworldindata.org/covid-deaths) 
 and the Dataset consists of Data from January 1, 2020, till February 7, 2022.
 The entire dataset was divided into two tables (CovidDeaths and CovidVaccinations) before importing it to SSMS for data exploration.
 
